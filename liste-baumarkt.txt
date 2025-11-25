@@ -2,3 +2,4 @@ Holz
 Nägel
 Kleber
 Hammer
+Zaun
