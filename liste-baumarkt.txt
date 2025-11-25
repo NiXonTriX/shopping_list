@@ -1,2 +1,4 @@
 Holz
 Nägel
+Kleber
+Hammer
