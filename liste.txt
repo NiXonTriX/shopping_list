@@ -8,3 +8,4 @@ Kornspitz
 Milch
 Cola
 Sprite
+Fanta
